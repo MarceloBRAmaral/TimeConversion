@@ -16,11 +16,9 @@ timeConversion has the following parameter(s):
 
 A single string **s** containing a time in **12**-hour clock format (i.e.:**hh:mm:ssAM** or **hh:mm:ssPM**), where **01<=hh<=12** and **00<=mm,ss<=59**.
 
-.
-
 ### Constraints
 
-    All input times are valid
+- All input times are valid
 
 ### Output Format
 
