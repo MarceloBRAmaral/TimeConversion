@@ -22,10 +22,7 @@ A single string **s** containing a time in **12**-hour clock format (i.e.:**hh:m
 
 ### Output Format
 
-Convert and print the given time in
--hour format, where
-
-.
+Convert and print the given time in **24**-hour format, where **00<=hh<=23**.
 
 ### Sample Input 0
 
