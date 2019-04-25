@@ -14,8 +14,7 @@ timeConversion has the following parameter(s):
 
 ### Input Format
 
-A single string
-containing a time in -hour clock format (i.e.: or ), where and
+A single string **s** containing a time in **12**-hour clock format (i.e.:**hh:mm:ssAM** or **hh:mm:ssPM**), where **01<=hh<=12** and **00<=mm,ss<=59**.
 
 .
 
