@@ -10,9 +10,7 @@ Complete the timeConversion function in the editor below. It should return a new
 
 timeConversion has the following parameter(s):
 
-    s: a string representing time in 
-
-    hour format
+- s: a string representing time in **12** hour format
 
 ### Input Format
 
