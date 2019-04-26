@@ -24,7 +24,7 @@ A single string **s** containing a time in **12**-hour clock format (i.e.:**hh:m
 
 Convert and print the given time in **24**-hour format, where **00<=hh<=23**.
 
- Sample Input 0
+### Sample Input 0
 
 07:05:45PM
 
